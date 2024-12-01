@@ -1,0 +1,5 @@
+[package]
+name = "advent-of-code-2024-utils"
+version = "1.0.0"
+edition = "2021"
+
