@@ -1,0 +1,6 @@
+[package]
+name = "day06"
+edition = "2021"
+
+[dependencies]
+advent-of-code-2024-utils = { path = "../utils" }
